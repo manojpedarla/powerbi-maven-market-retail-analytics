@@ -6,7 +6,7 @@ This is an end-to-end Power BI project I built to analyze 999,000+ retail transa
 
 ## Dashboard Preview
 
-![Dashboard](screenshots/dashboard_overview.png)
+![Dashboard](images/dashboard_overview.png)
 
 ## Key Metrics (Dec 1998)
 
