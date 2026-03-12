@@ -58,7 +58,7 @@ This is an end-to-end Power BI project I built to analyze 999,000+ retail transa
 
 ## Author
 
-Manoj Sai Kumar Pedarla
+Manoj Pedarla
 
 MS in Data Engineering, University of North Texas
 
