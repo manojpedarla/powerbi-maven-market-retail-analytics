@@ -31,11 +31,11 @@ This is an end-to-end Power BI project I built to analyze 999,000+ retail transa
 
 ## What I Did
 
-- Connected to a folder to automatically combine 1997 and 1998 transaction CSV files
-- Cleaned and transformed data in Power Query (data types, calculated columns, date tables)
-- Built a star schema with 6 dimension tables and 2 fact tables
-- Wrote DAX measures for revenue, profit, return rate, YTD revenue, and revenue vs target
-- Designed an executive dashboard with KPI cards, map visual, weekly trend chart, and gauge chart
+- End-to-end ETL pipeline in Power Query — connected to a folder source to auto-combine 1997 & 1998 transaction files, standardized data types, created calculated columns, and built a clean date table
+- Star schema data model with 2 fact tables (Transactions, Returns) and 6 dimension tables (Customers, Products, Stores, Regions, Calendar) — optimized for fast DAX calculations
+- 15+ DAX measures including Total Revenue, Total Profit, Profit Margin %, Return Rate, Weekend Transactions, YTD Revenue, and Revenue vs Target — enabling dynamic KPI tracking
+- Executive dashboard with KPI cards, map visual (USA/Canada/Mexico), weekly revenue trend chart, and a gauge chart tracking performance vs monthly targets
+- Identified key insights — Hermanos led with 5,342 transactions, Plato brand achieved the highest margin at 63.55%, and Dec 1998 revenue exceeded target by 5.69%
 
 ## Files in This Repo
 
